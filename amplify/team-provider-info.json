@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-buildfree-dev-efeb8-authRole",
+      "UnauthRoleArn": "arn:aws:iam::992382566548:role/amplify-buildfree-dev-efeb8-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::992382566548:role/amplify-buildfree-dev-efeb8-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-buildfree-dev-efeb8-deployment",
+      "UnauthRoleName": "amplify-buildfree-dev-efeb8-unauthRole",
+      "StackName": "amplify-buildfree-dev-efeb8",
+      "StackId": "arn:aws:cloudformation:us-east-1:992382566548:stack/amplify-buildfree-dev-efeb8/a2bde550-02a8-11ef-b117-0affdfba8f4d",
+      "AmplifyAppId": "d3tpxiu8taxu8z"
+    },
+    "categories": {
+      "api": {
+        "buildfree": {}
+      },
+      "auth": {
+        "buildfree41e7e919": {}
+      }
+    }
+  }
+}
